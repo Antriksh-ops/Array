@@ -15,4 +15,5 @@ int main(){
     }
 
     cout<<max;
+    cout<<"Hello world"<<endl;
 }
