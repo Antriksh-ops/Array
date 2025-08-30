@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+/*
 // smallest number in array
 int main(){
     int arr[] = {2,3,4,5};
@@ -33,3 +34,8 @@ int main(){
 }
 
 // min and max fuction
+*/
+
+int main(){
+    
+}
