@@ -18,7 +18,8 @@ int main(){
     // }
     cout<<vec.front();
     cout<<endl;
-    cout<<vec.back();
+    cout<<vec.back()<<endl;
+    cout<<vec.at(2);
     cout<<endl;
     cout<<"Size after push_back = "<<vec.size()<<endl;
     return 0;
